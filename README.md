@@ -13,4 +13,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawhan30&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhan30&layout=compact&theme=radical" /> </div>
-![Snake animation](https://github.com/Tawhan30/snk/blob/main/dist/github-contribution-grid-snake.svg)
+
